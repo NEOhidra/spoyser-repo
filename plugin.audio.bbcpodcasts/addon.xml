@@ -14,5 +14,10 @@
     <summary>Browse and play podcasts from the BBC website</summary>
     <description lang="en">Browse and play podcasts from the BBC website</description>
      <platform>all</platform>
+     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+     <forum>http://forum.kodi.tv/showthread.php?tid=145207</forum>
+     <website></website>
+     <email></email>
+     <source>https://github.com/spoyser/spoyser-repo/tree/master/plugin.audio.bbcpodcasts</source>
   </extension>
 </addon>

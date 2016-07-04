@@ -13,6 +13,11 @@
         <summary>Plays music videos from muzu.tv</summary>
         <description>Choose from a huge selection of music videos available at muzu.tv</description>
         <platform>all</platform>
+        <license></license>
+        <forum>http://forum.kodi.tv/showthread.php?tid=152879</forum>
+        <website></website>
+        <email></email>
+        <source>https://github.com/spoyser/spoyser-repo/tree/master/plugin.video.muzu.tv</source>
     </extension>
 </addon>
 

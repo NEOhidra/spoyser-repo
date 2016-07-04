@@ -15,7 +15,8 @@
      <language>en</language>
      <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
      <forum>http://forum.kodi.tv/showthread.php?tid=242478</forum>
-    <website>http://www.loyalbooks.com</website>
+     <website>http://www.loyalbooks.com</website>
+     <source>https://github.com/spoyser/spoyser-repo/tree/master/plugin.audio.booksshouldbefree</source>
   </extension>
   
 </addon>
